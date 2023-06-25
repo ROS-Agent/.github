@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+This is a co-simulation project of AVP (Automated Valet Parking) based on CARLA and Autoware.
+More information please check the pinned repo ros-agent-doc.
